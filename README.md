@@ -13,4 +13,4 @@ Dataset features:
 10- registered number of registered user rentals initiated
 11- count number of total rentals
 
-NOTE: I put some assumptions to get this scenario full.
+NOTE: I did some changes based on self assumptions to get this scenario full.
